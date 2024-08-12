@@ -3,7 +3,7 @@
 see example.py on example usage for all datasets
 
 For example:
-\t    python main.py 1 20 emotions 500 0.0 1
+    python main.py 1 20 emotions 500 0.0 1
 
 Arguments: layers, subspaces, dataset, maxgen, regularisation_strength, taskID
 
