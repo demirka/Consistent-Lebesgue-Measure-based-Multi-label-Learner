@@ -23,3 +23,6 @@ scipy 1.5.4
 numpy 1.19.5
 
 pymoo 0.6.0.1
+
+#Stratified IMDB-F
+Stratified files for IMDB-F can be sent upon request.
